@@ -24,6 +24,12 @@ var hacktobermap = [
     longitude: 77.391029
   },
   {
+    name: "Shailza",
+    location: "Delhi, India",
+    latitude: 28.7041,
+    longitude: 77.1025
+  },
+  {
     name: "Daniel Duhaylungsod",
     location: "Davao City, Philippines",
     latitude: 7.190708,
@@ -516,6 +522,12 @@ var hacktobermap = [
     longitude: 14.42076
   },
   {
+    name: "Ankit Kaneri",
+    location: "Bengaluru",
+    latitude: 12.924977,
+    longitude: 77.629992
+  },
+  {
     name: "Srinibas Biswal",
     location: "Hyderabad, India",
     latitude: 17.385044,
@@ -636,8 +648,20 @@ var hacktobermap = [
     longitude: 72.8311
   },
   {
-    name: "hiFiveDevelopment",
-    location: "Austria, Vienna",
+    name: "Nilesh D",
+    location: "Chennai, India",
+    latitude: 13.08268,
+    longitude: 80.270721
+  },
+  {
+    name: "Ali Syahidin",
+    location: "Jakarta",
+    latitude: -6.218558,
+    longitude: 106.817723
+  },
+  {
+    name: "Wolfgang Kreminger",
+    location: "Austria",
     latitude: 48.208176,
     longitude: 16.373819
   }
