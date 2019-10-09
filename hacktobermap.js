@@ -24,6 +24,12 @@ var hacktobermap = [
     longitude: 77.391029
   },
   {
+    name: "Pranjal Chiktu",
+    location: "Patna",
+    latitude: 25.594095,
+    longitude: 85.137566
+  },
+  {
     name: "Shailza",
     location: "Delhi, India",
     latitude: 28.7041,
@@ -664,5 +670,35 @@ var hacktobermap = [
     location: "Austria",
     latitude: 48.208176,
     longitude: 16.373819
-  }
+  },
+  {
+    name: "M L",
+    location: "Ohio, US",
+    latitude: 41.505493,
+    longitude: -81.681290
+  },
+  {
+    name: "Robert Fridzema",
+    location: "Rotterdam, Netherlands",
+    latitude: 51.924419,
+    longitude: 4.477733
+  },
+  {
+    name: "Luke Garrigan",
+    location: "Kings Lynn, England",
+    latitude: 52.751961,
+    longitude: 0.395360
+  },
+  {
+    name: "Mayur Patil",
+    location: "Pune, India",
+    latitude: 18.520430,
+    longitude: 73.856743 
+  },
+  {
+    name: "Shruti",
+    location: "Yokohama, Japan",
+    latitude: 35.443707,
+    longitude: 139.638031
+  },
 ];
